@@ -1,0 +1,21 @@
+LINEA DE TIEMPO
+rivales Y
+DONDE PODEMOS VER A PYTHON EN ACCION Y
+TIPOS DE DATOS Y VARIABLES Y
+OPEREACIONES PARA IDENTIFICAR E SIMBOLOGIA
+PORQUE NO PYTHON Y
+-----------------------------------------------------
+
+Rivales:
+
+1.Dart: Fue el leguaje de programacion que mayor crecimiento en el 2019 y se especializa en desarrollo web , aunque tambien ha conseguido entrar en las aplicaciones moviles.
+2.Go: Fue el segundo con mayor crecimiento, sus mayores ventajas es que es de codigo abierto y tienen una estructura y sintaxis similar al C.
+3.PowerShell: Es un lenguaje de programacion pensado para automatizar tareas y controlar aplicacciones del sistema operativo de Windows o Linux.
+4.Ruby: Es similar a python con sintanxis amigable, esta mas enfocado en el desarrollo web pero tambien se puede crear aplicaciones para escritorio e incluso para moviles
+5.Perl: Cuenta con un amplio rango de tareas, es de un uso practico y facil de usar mas no del todo aprender.
+
+-----------------------------------------------
+Estadistica:
+1.Independiente= multiplicacion
+2.Sin reposicion= no lo regresas
+3.valor esperado= suma de las multiplicaciones de las p(x) con las x
